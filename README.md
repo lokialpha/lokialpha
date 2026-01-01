@@ -109,13 +109,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lokialpha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokialpha&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Contact
