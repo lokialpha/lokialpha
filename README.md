@@ -103,16 +103,18 @@
 ---
 
 ## 📊 Stats (Dark Mode Friendly)
+## 📊 Stats (Dark Mode Friendly)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokialpha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokialpha&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lokialpha&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokialpha&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokialpha&theme=tokyonight" />
 </p>
 
 ---
