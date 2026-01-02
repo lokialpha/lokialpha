@@ -49,6 +49,11 @@
 
 ---
 
+👋 Hi, I’m Aung Aung.  
+Founder of LOKIALPHA — building clean web projects, tools, and products.
+
+---
+
 ## 🧰 What I Can Build (Services)
 - ✅ **Websites** (landing pages, portfolios, SEO-ready sites)
 - ✅ **Web Apps** (dashboards, admin panels, product systems)
