@@ -50,7 +50,10 @@
 ---
 
 👋 Hi, I’m Aung Aung.  
-Founder of LOKIALPHA — building clean web projects, tools, and products.
+Founder of **LOKIALPHA** — building clean web projects, automation tools,  
+and real-world digital products.
+
+**Build it right first. Automate later.**
 
 ---
 
